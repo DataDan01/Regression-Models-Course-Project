@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1445467691554.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CEBE4C5E",
+    "lastKnownWriteTime" : 7011605692497750387,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "ok070g2a3k",
+        "caption" : "corr.matrix",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=corr.matrix&cache_key=ok070g2a3k",
+        "displayedObservations" : 11,
+        "environment" : "",
+        "object" : "corr.matrix",
+        "totalObservations" : 11,
+        "variables" : 11
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
